@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gagenotar
 - 👀 I’m interested in full stack development!
 - 🌱 I’m currently learning all about Firebase and Python
-- 💻 Languages I use: JS, HTML, CSS, and Python
+- 💻 Languages I use: JS, HTML/CSS, PHP, and Python
 
 <!---
 gagenotar/gagenotar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
