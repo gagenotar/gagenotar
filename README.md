@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gagenotar
 - 👀 I loooove full stack development!
-- 🌱 I’m currently learning all about Firebase and Python
+- 🌱 I’m currently learning all about Firebase
 - 💻 Languages I use: JS, HTML/CSS, PHP, and Python
 
 <!---
